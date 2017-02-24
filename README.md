@@ -4,5 +4,3 @@
 $ node service.js
 $ node client.js
 ```
-
-... Be amazed
